@@ -1,20 +1,36 @@
-# Template for Reveal.js based talks
+# Open-science practices for gravimetry: tools, challenges, and opportunities
 
-This is a template I use to make [reveal.js](https://revealjs.com/) slides. 
-The slide contents are in `content.md`, which is loaded into `index.html`. 
-There is also custom styling and CSS classes to place items on slides defined 
-in `style.less` (using [Less](http://lesscss.org/)).
+Online talk given at the
+[GFZ Helmholtz Centre Potsdam](https://www.gfz-potsdam.de/)
+about my work in open-source gravimetry,
+the [Fatiando a Terra](https://www.fatiando.org) project,
+and open practices in science.
 
-Most of the components used are included in the repository so that the 
-presentation can work offline in a pinch. The only exception is math support
-which uses MathJax from a CDN.
+| | Info |
+|--:|:------|
+| When | 22 June 2021 12:00 UTC |
+| Slides | https://www.leouieda.com/2021-06-22-gfz |
 
-The original inspiration is this template by Matthew Turk: 
-https://github.com/matthewturk/mjt-talk-template
+## Abstract
 
-## Serving the slides
+The Fatiando a Terra project is a collection of open-source Python libraries
+for geophysics which cover a range of functionalities, from data download and
+processing to modeling and inversion.
+Many of our tools are general purpose but we also focus on gravimetry and
+magnetometry.
+Development on the projected started in 2010 and has gone through several
+iterations as the team matured and established best practices for maintaining
+software projects in the open.
 
-## Locally
+This talk is an overview of the history and current iteration of the project,
+including a short demonstration of our current capabilities for downloading and
+processing gravity data.
+We will then move on to our plans for future directions of the projects and
+information of how you can get involved.
+Finally, we will briefly discuss some of the challenges and opportunities of
+adopting open-science practices.
+
+## Serving the slides on your computer
 
 Install [livereload](https://github.com/lepture/python-livereload):
 
@@ -28,23 +44,15 @@ or
 conda install livereload -c conda-forge
 ```
 
-Use `make serve` to start a server at http://localhost:8000. The page will
-automatically reload the page when you update any of the files in the
-repository.
-
-## GitHub Pages
-
-Go to your repository `Setting > GitHub` Pages and select `Source` as your 
-`master` or `main` branch and folder `/ (root)`. You probably want to select 
-`Enforce HTTPS` as well.
-
-Your talk should now be served at https://USERNAME.github.io/REPOSITORY
-(it may take a little while for this to happen). 
-For example, this template is served at
-https://www.leouieda.com/talk-template/ (I use a custom domain).
+Then run `make serve` to start a server at http://localhost:8000.
+The page will automatically reload the page when you update any of the files in
+the repository.
 
 ## License
 
-The template (`content.md`, `index.html`, and `style.less`) is licensed under a
-<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
-Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>
+This content is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+4.0 International License</a>.
