@@ -15,18 +15,16 @@ The reveal.js configuration can be found in index.html
 
 <div class="talk-authors">
 
-## Leonardo Uieda
-
-### co-conspirators: Santiago Soler, Agustina Pesce
+### Leonardo Uieda <br> Santiago Soler, Agustina Pesce
 
 </div>
+
+GFZ Helmholtz Centre Potsdam <span style="margin: 0 20px">|</span> 22 June 2021
 
 <img src="assets/compgeolab-banner-light.svg" class="title-logo">
 <img src="assets/university-of-liverpool-white.png" class="title-logo">
 <img src="assets/conicet.png" class="title-logo">
 <img src="assets/universidad-nacional-de-san-juan.png" class="title-logo">
-
-GFZ Helmholtz Centre Potsdam <span style="margin: 0 20px">|</span> 22 June 2021
 
 <i class="fab fa-twitter fa-fw"></i> [@leouieda](https://twitter.com/leouieda)
 <span style="margin: 0 20px">|</span>
