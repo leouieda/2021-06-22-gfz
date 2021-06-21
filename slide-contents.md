@@ -72,12 +72,12 @@ Janeiro
 
 ---
 
-<!-- .slide: data-background-image="assets/fatiando-as-a-gravmag-gui.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+<!-- .slide: data-background-image="assets/fatiando-as-a-gravmag-gui.svg" data-background-size="contain" data-background-opacity="0.2" data-background-repeat="no-repeat" data-background-color="#ffffff" -->
 
 <div class="centered">
 <div class="quote">
 
-Started around 2008 as a GUI for **2D modelling** developed with
+Started around 2008 as a GUI for **2D gravity modelling** developed with
 fellow **undergrads** at USP, Brazil
 
 </div>
@@ -95,12 +95,25 @@ Actual diagram of the GUI workflow retrieved from our version control system.
 
 ---
 
+<!-- .slide: data-background-image="assets/fatiando-first-commit.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#ffffff" data-background-opacity="0.2" -->
+
+<div class="centered">
+<div class="quote">
+
+Transitioned into a **Python library**
+in 2010
+when I started my MSc in Rio working on gravity gradient 3D inversion
+
+</div>
+</div>
+
+---
+
 <!-- .slide: data-background-image="assets/fatiando-first-commit.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-right">
 
-Transitioned into the *fatiando* **Python library** in 2010 when I started my
-MSc in Rio
+The exact date and time when this happened is still registered in our git repository
 (commit: [928515b](https://github.com/fatiando/fatiando/commit/928515b0fcfdccecbc4f661ed2469390ef43ec1d))
 
 </div>
@@ -111,9 +124,10 @@ MSc in Rio
 
 <div class="r-stretch bottom-right">
 
-**Learned a lot** about software development: tests, packaging, documentation,
+**Learned a lot** about software development:
+version control (went through 3),
 <br>
-version control (went through SVN, Mercurial, and Git), and more.
+tests, packaging, documentation, and more.
 
 </div>
 
@@ -143,21 +157,11 @@ First documentation built using [sphinx](https://www.sphinx-doc.org) for
 
 ---
 
-<!-- .slide: data-background-image="assets/fatiando-docs-v0.2.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
-
-<div class="r-stretch bottom-left bottom-dark">
-
-Updated documentation for **v0.2** (2014). doi:[10.6084/m9.figshare.1115194](https://doi.org/10.6084/m9.figshare.1115194)
-
-</div>
-
----
-
 <!-- .slide: data-background-image="assets/fatiando-docs-v0.5.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-left bottom-dark">
 
-Last update for **v0.5** (2016). doi:[10.5281/zenodo.157746](https://doi.org/10.5281/zenodo.157746)
+Santiago and other contributors joined and we made several releases until **v0.5** (2016). doi:[10.5281/zenodo.157746](https://doi.org/10.5281/zenodo.157746)
 
 </div>
 
