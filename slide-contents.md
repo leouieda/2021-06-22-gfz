@@ -366,13 +366,13 @@ Repository for our **sample data** (uses Pooch)
 
 ---
 
-<!-- .slide: data-background-image="assets/papers.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#ffffff" -->
+<!-- .slide: class="slide-transition" data-background-color="#060629" -->
 
 <div class="centered">
 <div>
 
-<h1 style="background-color: #000000bb; color: #ffffff; padding: 5px 40px;">
-Fatiando in the wild
+<h1>
+Ongoing <br> developments
 </h1>
 
 </div>
@@ -380,27 +380,55 @@ Fatiando in the wild
 
 ---
 
-# How to get started
+Slides about:
+
+* EQL work (santi and harmonica)
+* Filters
+* Boule rewrite
+* Docs reorganizing
+* Increase recruitment and diversity
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#060629" -->
+
+<div class="centered">
+<div>
+
+<h1>
+Come for the <strong>code</strong> <i class="fas fa-code"></i>
+<br>
+Stay for the <strong>community</strong> <i class="fas fa-users"></i>
+</h1>
+
+</div>
+</div>
+
+---
+
+# Get started
 
 <ul class="fa-ul">
 
 <li class="fragment">
 <span class="fa-li"><i class="fab fa-python"></i></span>
 Not experienced with Python?
-    <ul style="margin: 1em 0 0 1em;">
-    <li>
-     <a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>
-    </li>
-    <li>
-    <a href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>
-    </li>
-    </ul>
+<ul style="margin: 1em 0 0 1em;">
+<li>
+  Software Carpentry has <a href="https://swcarpentry.github.io/python-novice-inflammation/">great open-access lessons</a>
+</li>
+</ul>
 </li>
 
 <li class="fragment">
 <span class="fa-li"><i class="fab fa-youtube"></i></span>
-Tutorials about <a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Verde</a>
-and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Harmonica</a>
+Watch some tutorials on YouTube:
+<ul style="margin: 1em 0 0 1em;">
+<li>
+  Verde (<a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Transform 2020 </a>) and
+  Harmonica (<a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Transform 2021</a>)
+</li>
+</ul>
 </li>
 
 <li class="fragment">
@@ -413,23 +441,7 @@ Documentation for each library
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#060629" -->
-
-<div class="centered">
-<div>
-
-<h1>
-More than just code <i class="fas fa-code"></i>
-<br>
-it's a <strong>community</strong> <i class="fas fa-users"></i>
-</h1>
-
-</div>
-</div>
-
----
-
-# How to get involved
+# Get involved
 
 There are many ways to participate:
 
@@ -478,8 +490,9 @@ where we discuss development details and review code
 <span class="fa-li"><i class="fa fa-microphone-alt"></i></span>
 <div class="container">
 <div class="col-left">
-<a href="https://github.com/fatiando/meeting-notes">Community Calls</a>:
-regular video calls open to everyone (not just developers)
+<a href="https://github.com/fatiando/meeting-notes">Video Calls</a>:
+<b>Community Calls</b> (monthly) to socialize and plan,
+<b>Development Calls</b> (weekly) to discuss the details
 </div>
 <div class="col-right">
 <img src="assets/fatiando-community-call.jpg">
@@ -491,26 +504,17 @@ regular video calls open to everyone (not just developers)
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#060629" -->
-
-<div class="centered">
-<div>
-
-# You are welcome as <br> a member or contributor! <br> <i class="fas fa-rocket"></i>
-
-</div>
-</div>
-
----
-
 <div class="centered huge">
 <div>
 
-Find out more:
+About Fatiando:
 [fatiando.org](https://www.fatiando.org)
 
+Our research:
+[compgeolab.org](https://www.compgeolab.org)
+
 Slides + demo:
-[github.com/fatiando/2021-gsh](https://github.com/fatiando/2021-gsh)
+[github.com/leouieda/2021-06-22-gfz](https://github.com/leouieda/2021-06-22-gfz)
 
 </div>
 </div>
