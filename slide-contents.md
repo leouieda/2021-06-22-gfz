@@ -7,9 +7,9 @@ The reveal.js configuration can be found in index.html
 
 <div class="talk-title">
 
-# open-science for gravimetry:
+# Open-science for gravimetry:
 
-## tools, challenges, and opportunities
+## Tools, challenges, and opportunities
 
 </div>
 
@@ -35,12 +35,24 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: data-background-image="assets/fatiando-a-terra-front-page.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+This talk will be mostly about the [Fatiando a Terra](https://www.fatiando.org)
+project.
+**Fun fact:** the name is Portuguese for **"Slicing the Earth"**
+
+</div>
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#060629" -->
 
 <div class="centered">
 <div>
 
-# A bit of history
+# First, a bit of history
 
 <img src="assets/logo-evolution.svg" style="margin-top: 5%;">
 
@@ -397,7 +409,7 @@ Documentation for each library
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: class="slide-transition" data-background-color="#060629" -->
 
 <div class="centered">
 <div>
@@ -475,7 +487,7 @@ regular video calls open to everyone (not just developers)
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: class="slide-transition" data-background-color="#060629" -->
 
 <div class="centered">
 <div>
