@@ -1,7 +1,28 @@
-name: talk
+name: 2021-gfz
 channels:
-  - conda-forge
-  - defaults
+    - conda-forge
+    - defaults
 dependencies:
-  - python==3.8
-  - livereload==2.6.1
+    - python==3.9
+    - pip
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - jupyter
+    - jupyterlab
+    - xarray
+    - netcdf4
+    - pygmt==0.4.0
+    - gmt==6.2.0
+    - pyproj
+    # To serve slides
+    - livereload
+    # Fatiando packages
+    - pooch==1.4.0
+    - verde==1.6.1
+    - boule==0.2.0
+    - harmonica==0.2.1
+    # To speed up Verde
+    - pykdtree
+    - numba
