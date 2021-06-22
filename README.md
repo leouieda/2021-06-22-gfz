@@ -10,6 +10,7 @@ and open practices in science.
 |--:|:------|
 | When | 22 June 2021 12:00 UTC |
 | Slides | https://www.leouieda.com/2021-06-22-gfz |
+| Demo | [Jupyter notebook](https://nbviewer.jupyter.org/github/leouieda/2021-06-22-gfz/blob/main/demo.ipynb) |
 
 ## Abstract
 
