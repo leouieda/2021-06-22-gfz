@@ -405,13 +405,13 @@ Code coming to Harmonica in the next few months
 
 ---
 
-Slides about:
+# In development
 
-* EQL work (santi and harmonica)
-* Filters
-* Boule rewrite
-* Docs reorganizing
-* Increase recruitment and diversity
+* Frequency domain transformation ([fatiando/harmonica#238](https://github.com/fatiando/harmonica/pull/238))
+* Tri-axial ellipsoids ([fatiando/boule#76](https://github.com/fatiando/boule/issues/76))
+* Re-organization of the documentation ([Pooch v1.4.0 was the first](https://www.fatiando.org/pooch/v1.4.0/))
+* Gather open-access data for tutorials ([included in RockHound](https://github.com/fatiando/meeting-notes/blob/main/community-calls/2021.md#2021-05-13))
+* Increase recruitment and diversity of our community
 
 ---
 
@@ -474,15 +474,15 @@ There are many ways to participate:
 <div class="col-left">
 <ul>
 <li class="fragment">Write code</li>
-<li class="fragment">Work on documentation or examples</li>
+<li class="fragment">Documentation and examples</li>
 <li class="fragment">Give feedback</li>
 </lu>
 </div>
 <div class="col-right">
 <ul>
 <li class="fragment">Join the conversation</li>
-<li class="fragment">Share your experience</li>
-<li class="fragment">Help guide future development</li>
+<li class="fragment">Share your expertise</li>
+<li class="fragment">Guide future development</li>
 </ul>
 </div>
 </div>
