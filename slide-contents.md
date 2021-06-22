@@ -372,8 +372,33 @@ Repository for our **sample data** (uses Pooch)
 <div>
 
 <h1>
-Ongoing <br> developments
+Ongoing
+<br>
+developments
+<br>
+<i class="fa fa-wrench"></i>
 </h1>
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col-large">
+
+# Equivalent sources
+
+Using **gradient boosting** to scale to millions of data
+
+Preprint on EarthArXiv (minor revision at GJI): [Soler & Uieda (2021)](https://doi.org/10.31223/X58G7C)
+
+Code coming to Harmonica in the next few months
+
+</div>
+<div class="col-small">
+
+<img src="assets/gradient-boosting.svg" style="width: 90%">
 
 </div>
 </div>
