@@ -1,4 +1,4 @@
-# Open-science practices for gravimetry: tools, challenges, and opportunities
+# Open-science for gravimetry: tools, challenges, and opportunities
 
 Online talk given at the
 [GFZ Helmholtz Centre Potsdam](https://www.gfz-potsdam.de/)
@@ -9,8 +9,9 @@ and open practices in science.
 | | Info |
 |--:|:------|
 | When | 22 June 2021 12:00 UTC |
-| Slides | https://www.leouieda.com/2021-06-22-gfz |
+| Slides | https://www.leouieda.com/2021-06-22-gfz • [PDF version (no video)](slides.pdf) |
 | Demo | [Jupyter notebook](https://nbviewer.jupyter.org/github/leouieda/2021-06-22-gfz/blob/main/demo.ipynb) |
+| DOI | https://doi.org/10.6084/m9.figshare.14838477 |
 
 ## Abstract
 
