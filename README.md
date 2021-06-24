@@ -12,6 +12,7 @@ and open practices in science.
 | Slides | https://www.leouieda.com/2021-06-22-gfz • [PDF version (no video)](slides.pdf) |
 | Demo | [Jupyter notebook](https://nbviewer.jupyter.org/github/leouieda/2021-06-22-gfz/blob/main/demo.ipynb) |
 | DOI | https://doi.org/10.6084/m9.figshare.14838477 |
+| Recording | https://youtu.be/z-5dvWfB_SM |
 
 ## Abstract
 
